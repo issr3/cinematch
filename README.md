@@ -6,7 +6,7 @@
 ## Pickle Files
 
 ### movie_dict.pkl  
-[Download](https://drive.google.com/file/d/17LjJwGosIvbFHo-k3wfWETw6G1cZNZ66/view?usp=sharing)
+[Download](https://drive.google.com/file/d/17JLjwGosIvbFHo-k3wfWETw6G1cZNZ66/view?usp=sharing)
 
 ### similarity.pkl  
 [Download](https://drive.google.com/file/d/1nBBdqx4srmRxtL3InxNeV35V-N1dVjS-/view?usp=sharing)
